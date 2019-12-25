@@ -17,7 +17,7 @@
 ## Scrollbars
 * https://github.com/malte-wessel/react-custom-scrollbars
 
-# GraphQL
+## GraphQL
 * http://facebook.github.io/relay/en/
 * https://www.apollographql.com/
 
