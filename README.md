@@ -20,3 +20,16 @@
 # GraphQL
 * http://facebook.github.io/relay/en/
 * https://www.apollographql.com/
+
+## Select
+* https://github.com/JedWatson/react-select
+
+## Table
+* https://www.npmjs.com/package/react-table
+
+## Charts
+* https://github.com/highcharts/highcharts-react
+* https://plot.ly/javascript/react/
+
+## React Hooks
+* https://github.com/rehooks/awesome-react-hooks
