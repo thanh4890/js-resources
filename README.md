@@ -40,6 +40,9 @@
 ## React Hooks
 * https://github.com/rehooks/awesome-react-hooks
 
+## Lightbox
+* https://github.com/frontend-collective/react-image-lightbox
+
 # Essential articles
 * https://www.telerik.com/blogs/5-steps-for-learning-react-application-development
 * https://www.freecodecamp.org/news/how-to-combine-webpack-4-and-babel-7-to-create-a-fantastic-react-app-845797e036ff/
