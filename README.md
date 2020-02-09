@@ -1,3 +1,9 @@
+# JS resources
+
+## Utilities
+* https://lodash.com/
+* https://underscorejs.org/
+
 # React resources
 
 ## Starter kit
@@ -33,3 +39,8 @@
 
 ## React Hooks
 * https://github.com/rehooks/awesome-react-hooks
+
+## Essential articles
+* https://www.telerik.com/blogs/5-steps-for-learning-react-application-development
+* https://www.freecodecamp.org/news/how-to-combine-webpack-4-and-babel-7-to-create-a-fantastic-react-app-845797e036ff/
+* https://medium.com/dailyjs/building-a-react-component-with-webpack-publish-to-npm-deploy-to-github-guide-6927f60b3220
