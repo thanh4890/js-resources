@@ -46,6 +46,9 @@
 ## Annotation
 * http://arianv.me/react-image-annotation/
 
+## Toast
+* https://fkhadra.github.io/react-toastify/
+
 # Essential articles
 ## React
 * https://www.telerik.com/blogs/5-steps-for-learning-react-application-development
