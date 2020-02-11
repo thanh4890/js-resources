@@ -54,3 +54,6 @@
 
 ## Babel
 * https://medium.com/@onlykiosk/complete-babel-7-guide-for-beginners-in-2019-7dd78214c464
+
+## Testing
+* https://jestjs.io/docs/en/snapshot-testing
