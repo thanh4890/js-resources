@@ -43,6 +43,9 @@
 ## Lightbox
 * https://github.com/frontend-collective/react-image-lightbox
 
+## Annotation
+* http://arianv.me/react-image-annotation/
+
 # Essential articles
 ## React
 * https://www.telerik.com/blogs/5-steps-for-learning-react-application-development
