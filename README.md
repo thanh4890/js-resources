@@ -57,3 +57,7 @@
 
 ## Testing
 * https://jestjs.io/docs/en/snapshot-testing
+* https://reactjs.org/docs/test-renderer.html
+
+# Books
+* https://www.packtpub.com/web-development/react-design-patterns-and-best-practices
