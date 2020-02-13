@@ -49,6 +49,14 @@
 ## Toast
 * https://fkhadra.github.io/react-toastify/
 
+## SSR tools
+* https://www.gatsbyjs.org/
+* https://nextjs.org/
+
+## Utility development services
+* https://zeit.co/
+* https://www.netlify.com/
+
 # Essential articles
 ## React
 * https://www.telerik.com/blogs/5-steps-for-learning-react-application-development
