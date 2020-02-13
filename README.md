@@ -53,7 +53,7 @@
 * https://www.gatsbyjs.org/
 * https://nextjs.org/
 
-## Utility development services
+## Development utility services
 * https://zeit.co/
 * https://www.netlify.com/
 
