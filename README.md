@@ -7,6 +7,9 @@
 ### XLSX, CSV tools
 * https://www.npmjs.com/package/xlsx
 
+### Password checking tools
+* https://www.npmjs.com/package/zxcvbn
+
 # React resources
 
 ### Starter kit
