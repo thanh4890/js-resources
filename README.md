@@ -66,6 +66,11 @@
 * https://zeit.co/
 * https://www.netlify.com/
 
+### Testing tools
+* Jest https://jestjs.io
+* @testing-library/react https://testing-library.com/docs/react-testing-library/intro
+* Enzyme https://airbnb.io/enzyme/
+
 # Essential articles
 ### React
 * https://www.telerik.com/blogs/5-steps-for-learning-react-application-development
@@ -78,6 +83,7 @@
 ### Testing
 * https://jestjs.io/docs/en/snapshot-testing
 * https://reactjs.org/docs/test-renderer.html
+* https://react-testing-library-examples.netlify.com/
 
 # Books
 * https://www.packtpub.com/web-development/react-design-patterns-and-best-practices
