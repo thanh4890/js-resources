@@ -71,6 +71,17 @@
 * @testing-library/react https://testing-library.com/docs/react-testing-library/intro
 * Enzyme https://airbnb.io/enzyme/
 
+# Node.js
+
+### Testing
+* https://github.com/visionmedia/supertest
+
+### Authenticate
+* http://www.passportjs.org/
+
+### Framework
+* https://expressjs.com/
+
 # Essential articles
 ### React
 * https://www.telerik.com/blogs/5-steps-for-learning-react-application-development
