@@ -94,6 +94,7 @@
 ### Testing
 * https://jestjs.io/docs/en/snapshot-testing
 * https://reactjs.org/docs/test-renderer.html
+* https://rafaelquintanilha.com/react-testing-library-common-scenarios/
 * https://react-testing-library-examples.netlify.com/
 
 # Books
