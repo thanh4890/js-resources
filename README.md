@@ -96,6 +96,7 @@
 * https://reactjs.org/docs/test-renderer.html
 * https://rafaelquintanilha.com/react-testing-library-common-scenarios/
 * https://react-testing-library-examples.netlify.com/
+* https://kentcdodds.com/blog/testing-implementation-details/
 
 # Books
 * https://www.packtpub.com/web-development/react-design-patterns-and-best-practices
