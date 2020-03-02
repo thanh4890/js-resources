@@ -66,6 +66,10 @@
 * https://zeit.co/
 * https://www.netlify.com/
 
+### Gatsby starter kit
+* https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-default/
+* https://github.com/angeloocana/gatsby-plugin-i18n/tree/master/packages/gatsby-starter-default-i18n
+
 ### Testing tools
 * Jest https://jestjs.io
 * @testing-library/react https://testing-library.com/docs/react-testing-library/intro
