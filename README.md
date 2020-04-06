@@ -21,6 +21,7 @@
 * https://github.com/erikras/redux-form
 * https://github.com/final-form/react-final-form
 * https://github.com/davidkpiano/react-redux-form
+* https://react-hook-form.com/
 
 ### Virtual List
 * https://github.com/bvaughn/react-virtualized
