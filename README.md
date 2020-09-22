@@ -3,6 +3,7 @@
 ### Utilities
 * https://lodash.com/
 * https://underscorejs.org/
+* https://www.npmjs.com/package/query-string
 
 ### XLSX, CSV tools
 * https://www.npmjs.com/package/xlsx
